@@ -24,5 +24,9 @@
   "homepage": "https://github.com/TheJubadze/project-lvl2-s487#readme",
   "dependencies": {
     "commander": "^2.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/node": "7.4.5"
   }
 }
